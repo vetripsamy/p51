@@ -1,0 +1,48 @@
+.header{
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.grid{
+    background-color: peachpuff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    
+}
+
+.item{
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.item img{
+    border: 3px solid black;
+    border-radius: 50px;
+    margin-left: 70px;
+}
+
+.item p{
+    text-align: center;
+}
+
+.middle{
+    text-align: center;
+    background-color: #A9A9A9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a:visited{
+    color: white;
+}
+
+a:link{
+    color: white;
+}
